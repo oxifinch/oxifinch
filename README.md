@@ -1,16 +1,23 @@
-### Hi there 👋
+# Joseph Stameus
+## aka oxifinch
 
-<!--
-**oxifinch/oxifinch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! I'm a web developer student and former game developer/3D graphics artist. 
+I like to learn a little bit about everything there is to learn about programming, but I'm happiest when working on the back end with server-side applications, databases and technical problem solving. I'm also a huge GNU/Linux enthusiast, and you'll most likely find me hunched over a terminal when I'm working.
 
-Here are some ideas to get you started:
+### I'm currently learning...
+- Rust
+- WebAssembly
+- MongoDB
+- Express
+- Boostrap/SCSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm working on
+- [Skalver](github.com/oxifinch/skalver)
+- [skalver-mdparser](github.com/oxifinch/skalver-mdparser)
+- My portfolio(this one right here!)
+
+### My favorite tools
+- Bash
+- Fish Shell
+- Vim
+- Vivaldi Browser
