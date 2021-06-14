@@ -12,7 +12,7 @@ I like to learn a little bit about everything there is to learn about programmin
 - Boostrap/SCSS
 
 ### What I'm working on
-- [Skalver](github.com/oxifinch/skalver)
+- [Skalver](https://github.com/oxifinch/skalver)
 - [skalver-mdparser](github.com/oxifinch/skalver-mdparser)
 - My portfolio(this one right here!)
 
