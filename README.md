@@ -13,7 +13,7 @@ I like to learn a little bit about everything there is to learn about programmin
 
 ### What I'm working on
 - [Skalver](https://github.com/oxifinch/skalver)
-- [skalver-mdparser](github.com/oxifinch/skalver-mdparser)
+- [skalver-mdparser](https://github.com/oxifinch/skalver-mdparser)
 - My portfolio(this one right here!)
 
 ### My favorite tools
