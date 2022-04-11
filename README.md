@@ -2,21 +2,21 @@
 ## aka oxifinch 🛰️
 ---
 **Connect with me:**
-[<img align="left" alt="josephstameus | LinkedIn" width="22px" src="./linkedin.svg" \>][linkedin]
+[<img align="left" alt="josephstameus | LinkedIn" width="22px" src="./icons/linkedin.svg" \>][linkedin]
 
 **Languages and technologies:**
-[<img align="left" alt="Go" width="22px" src="./go.svg" \>]
-[<img align="left" alt="HTML" width="22px" src="./html5.svg" \>]
-[<img align="left" alt="CSS" width="22px" src="./css3.svg" \>]
-[<img align="left" alt="JavaScript" width="22px" src="./javascript.svg" \>]
-[<img align="left" alt="Node.js" width="22px" src="./nodedotjs.svg" \>]
-[<img align="left" alt="PHP" width="22px" src="./php.svg" \>]
-[<img align="left" alt="MySQL" width="22px" src="./mysql.svg" \>]
-[<img align="left" alt="SQLite" width="22px" src="./sqlite.svg" \>]
-[<img align="left" alt="MongoDB" width="22px" src="./mongodb.svg" \>]
-[<img align="left" alt="Docker" width="22px" src="./docker.svg" \>]
-[<img align="left" alt="Linux" width="22px" src="./linux.svg" \>]
-[<img align="left" alt="Bash" width="22px" src="./gnubash.svg" \>]
+[<img align="left" alt="Go" width="22px" src="./icons/go.svg" \>]
+[<img align="left" alt="HTML" width="22px" src="./icons/html5.svg" \>]
+[<img align="left" alt="CSS" width="22px" src="./icons/css3.svg" \>]
+[<img align="left" alt="JavaScript" width="22px" src="./icons/javascript.svg" \>]
+[<img align="left" alt="Node.js" width="22px" src="./icons/nodedotjs.svg" \>]
+[<img align="left" alt="PHP" width="22px" src="./icons/php.svg" \>]
+[<img align="left" alt="MySQL" width="22px" src="./icons/mysql.svg" \>]
+[<img align="left" alt="SQLite" width="22px" src="./icons/sqlite.svg" \>]
+[<img align="left" alt="MongoDB" width="22px" src="./icons/mongodb.svg" \>]
+[<img align="left" alt="Docker" width="22px" src="./icons/docker.svg" \>]
+[<img align="left" alt="Linux" width="22px" src="./icons/linux.svg" \>]
+[<img align="left" alt="Bash" width="22px" src="./icons/gnubash.svg" \>]
 
 ## Current status: LOOKING FOR WORK
 **Junior Back-end Web Developer** looking for work in Malmö, Copenhagen or remotely, preferrably full-time. See my [LinkedIn profile](https://www.linkedin.com/in/josephstameus/) for more details and qualifications.  
