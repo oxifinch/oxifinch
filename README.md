@@ -18,7 +18,6 @@
 <img align="left" alt="Linux" width="22px" src="./icons/linux.png" />
 <img align="left" alt="Bash" width="22px" src="./icons/bash.png" />
 
-
 ## Current status: LOOKING FOR WORK
 **Junior Back-end Web Developer** looking for work in Malmö, Copenhagen or remotely, preferrably full-time. See my [LinkedIn profile](https://www.linkedin.com/in/josephstameus/) for more details and qualifications.  
 I'm looking to work as a:
