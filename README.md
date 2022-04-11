@@ -1,22 +1,23 @@
 # Joseph Stameus
+
 ## aka oxifinch 🛰️
----
 **Connect with me:**
 [LinkedId](https://www.linkedin.com/in/josephstameus/)
 
 **Languages and technologies:**
-<img align="left" alt="Go" width="22px" src="./icons/go.png" />
-<img align="left" alt="HTML" width="22px" src="./icons/html.png" />
-<img align="left" alt="CSS" width="22px" src="./icons/css.png" />
-<img align="left" alt="JavaScript" width="22px" src="./icons/javascript.png" />
-<img align="left" alt="Node.js" width="22px" src="./icons/node.png" />
-<img align="left" alt="PHP" width="22px" src="./icons/php.png" />
-<img align="left" alt="MySQL" width="22px" src="./icons/mysql.png" />
-<img align="left" alt="SQLite" width="22px" src="./icons/sqlite.png" />
-<img align="left" alt="MongoDB" width="22px" src="./icons/mongodb.png" />
-<img align="left" alt="Docker" width="22px" src="./icons/docker.png" />
-<img align="left" alt="Linux" width="22px" src="./icons/linux.png" />
-<img align="left" alt="Bash" width="22px" src="./icons/bash.png" />
+
+<img align="left" alt="Go" width="50px" src="./icons/go.png" />
+<img align="left" alt="HTML" width="50px" src="./icons/html.png" />
+<img align="left" alt="CSS" width="50px" src="./icons/css.png" />
+<img align="left" alt="JavaScript" width="50px" src="./icons/javascript.png" />
+<img align="left" alt="Node.js" width="50px" src="./icons/node.png" />
+<img align="left" alt="PHP" width="50px" src="./icons/php.png" />
+<img align="left" alt="MySQL" width="50px" src="./icons/mysql.png" />
+<img align="left" alt="SQLite" width="50px" src="./icons/sqlite.png" />
+<img align="left" alt="MongoDB" width="50px" src="./icons/mongodb.png" />
+<img align="left" alt="Docker" width="50px" src="./icons/docker.png" />
+<img align="left" alt="Linux" width="50px" src="./icons/linux.png" />
+<img alt="Bash" width="50px" src="./icons/bash.png" />
 
 ## Current status: LOOKING FOR WORK
 **Junior Back-end Web Developer** looking for work in Malmö, Copenhagen or remotely, preferrably full-time. See my [LinkedIn profile](https://www.linkedin.com/in/josephstameus/) for more details and qualifications.  
