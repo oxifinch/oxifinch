@@ -2,7 +2,12 @@
 
 ## aka oxifinch 🛰️
 **Connect with me:**
-[LinkedId](https://www.linkedin.com/in/josephstameus/)
+[LinkedIn](https://www.linkedin.com/in/josephstameus/)
+
+**Project showcase**
+- [**Budget Helper**: Full-stack web app written in Go](https://github.com/oxifinch/budget-helper)
+- [**Skalver**: Node.js/Express app for writing notebooks in Markdown, using MongoDB](https://github.com/oxifinch/skalver)
+- [**skalver-mdparser**: Markdown parser & HTML compiler for Skalver, ported to WebAssembly](https://github.com/oxifinch/skalver-mdparser)
 
 **Languages and technologies:**
 
