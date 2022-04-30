@@ -25,7 +25,7 @@
 <img alt="Bash" width="50px" src="./icons/bash.png" />
 
 ## Current status: LOOKING FOR WORK
-**Junior Back-end Web Developer** looking for work in Malmö, Copenhagen or remotely, preferrably full-time. See my [LinkedIn profile](https://www.linkedin.com/in/josephstameus/) for more details and qualifications.  
+**Back-end Web Developer** looking for work in Malmö, Copenhagen or remotely, preferrably full-time. See my [LinkedIn profile](https://www.linkedin.com/in/josephstameus/) for more details and qualifications.  
 I'm looking to work as a:
   - Back-end Web Developer in general
   - PHP developer
@@ -33,7 +33,7 @@ I'm looking to work as a:
   - Go/C#/Java developer
 
 ## About me
-Hello there! I'm a junior web developer and (soon to be) fresh graduate from Glimåkra Folkhögskola in Sweden. I'm happiest when working on the back end with server-side applications, databases and technical problem solving, all the "dry" stuff that involves moving pieces of data around, and I feel most at home in a dark and cozy terminal on Linux. 
+Hello there! I'm a web developer and graduate from Glimåkra Folkhögskola in Sweden. I'm happiest when working on the back end with server-side applications, databases and technical problem solving, all the "dry" stuff that involves moving pieces of data around, and I feel most at home in a dark and cozy terminal on Linux. 
 
 Before taking up programming, I worked with game development as a 3D graphics generalist, and took an interest in learning how to code after working close with some programmers on an indie game project.
 
