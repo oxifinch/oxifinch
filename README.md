@@ -24,13 +24,7 @@
 <img align="left" alt="Linux" width="50px" src="./icons/linux.png" />
 <img alt="Bash" width="50px" src="./icons/bash.png" />
 
-## Current status: LOOKING FOR WORK
-**Back-end Web Developer** looking for work in Malmö, Copenhagen or remotely, preferrably full-time. See my [LinkedIn profile](https://www.linkedin.com/in/josephstameus/) for more details and qualifications.  
-I'm looking to work as a:
-  - Back-end Web Developer in general
-  - PHP developer
-  - JavaScript/Node developer
-  - Go/C#/Java developer
+## Current status: Working full time
 
 ## About me
 Hello there! I'm a web developer and graduate from Glimåkra Folkhögskola in Sweden. I'm happiest when working on the back end with server-side applications, databases and technical problem solving, all the "dry" stuff that involves moving pieces of data around, and I feel most at home in a dark and cozy terminal on Linux. 
